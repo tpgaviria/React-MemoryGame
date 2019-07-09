@@ -1,0 +1,77 @@
+[
+    {
+        "id":1,
+        "image": "https://placeimg.com/150/150/animals",
+        "clicked": false
+    },
+    {
+        "id":2,
+        "image": "https://placeimg.com/150/150/architecture",
+        "clicked": false
+    },
+    {
+        "id":3,
+        "image": "https://placeimg.com/150/150/nature",
+        "clicked": false
+    },
+    {
+        "id":4,
+        "image": "https://placeimg.com/150/150/people",
+        "clicked": false
+    },
+    {
+        "id":5,
+        "image": "https://placeimg.com/150/150/tech",
+        "clicked": false
+    },
+    {
+        "id":6,
+        "image": "https://placeimg.com/150/150/grayscale",
+        "clicked": false
+    },
+    {
+        "id":7,
+        "image": "https://placeimg.com/150/150/sepia",
+        "clicked": false
+    },
+    {
+        "id":8,
+        "image": "https://placeimg.com/150/150/animals",
+        "clicked": false
+    },
+    {
+        "id":9,
+        "image": "https://placeimg.com/150/150/architecture",
+        "clicked": false
+    },
+    {
+        "id":10,
+        "image": "https://placeimg.com/150/150/nature",
+        "clicked": false
+    },
+    {
+        "id":11,
+        "image": "https://placeimg.com/150/150/people",
+        "clicked": false
+    },
+    {
+        "id":12,
+        "image": "https://placeimg.com/150/150/tech",
+        "clicked": false
+    },
+    {
+        "id":13,
+        "image": "https://placeimg.com/150/150/grayscale",
+        "clicked": false
+    },
+    {
+        "id":14,
+        "image": "https://placeimg.com/150/150/sepia",
+        "clicked": false
+    },
+    {
+        "id":15,
+        "image": "https://placeimg.com/150/150/animals",
+        "clicked": false
+    }
+]
