@@ -10,16 +10,28 @@ class Game extends React.Component {
         highScore: 0
     };
 
+    componentDidMount() {
+        this.setState({characters: this.shuffleCharacters(this.state.characters)});
+    }
+
+    shuffleCharacters = characters => {
+        for (let i = characters.length -1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [characters[i], characters[j]] = [characters[j], characters[i]];
+        }
+        return characters;
+    }
+
 
     render() {
         return (
             <Container>
-                {this.state.characters.map(tile => (
+                {this.state.characters.map(character => (
                     <ClickTile
-                        key={tile.id}
-                        id={tile.id}
+                        key={character.id}
+                        id={character.id}
                         handleClick={this.handleClick}
-                        image={tile.image}
+                        image={character.image}
                     />
                 ))}
             </Container>
