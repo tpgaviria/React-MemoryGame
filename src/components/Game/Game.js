@@ -47,17 +47,22 @@ class Game extends React.Component {
         const newScore = score + 1;
         const newHighScore = newScore > highScore ? newScore : highScore;
         this.setState({
-            data: this.shuffleCharacters(newCharacterData),
+            characters: this.shuffleCharacters(newCharacterData),
             score: newScore,
             highScore: newHighScore
         })
     };
 
     handleIncorrectGuess = newCharacterData => {
-        // this.setState({
-        //     data: this.reset
-        // })
-        console.log('incorrect');
+        this.setState({
+            characters: this.restartGame(newCharacterData),
+            score: 0
+        })
+    }
+
+    restartGame = characters => {
+        const reset = characters.map(character => ({ ...character, clicked: false}));
+        return this.shuffleCharacters(reset);
     }
 
     render() {
