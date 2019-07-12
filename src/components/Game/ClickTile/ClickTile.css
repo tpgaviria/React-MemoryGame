@@ -4,9 +4,9 @@
     height: 150px;
     width: 150px;
     margin: 2%;
-    border: 1px solid black;
+    border: 2px solid black;
 }
 
 .click-tile:hover {
-    border: 1px solid red;
+    border: 2px solid red;
 }
