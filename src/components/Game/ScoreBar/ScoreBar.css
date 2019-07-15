@@ -1,4 +1,14 @@
 .navbar {
-    background-color: black;
+    background-color: transparent;
+    text-align: center;
     color: white;
+    font-size: 2em;
+    font-family: 'VT323', monospace;
+    font-weight: 100;
+    letter-spacing: 3px;
+    margin-bottom: 0%;
+}
+
+h5 {
+    margin: 0px;
 }

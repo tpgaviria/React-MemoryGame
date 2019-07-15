@@ -1,0 +1,14 @@
+.footer {
+    margin-top: 2%;
+    color: white;
+    text-align: center;
+    font-family: 'VT323', monospace;
+}
+
+.footer a {
+    color: #ffff90;
+}
+
+.footer a:hover {
+    color: rgb(236, 236, 0);
+}

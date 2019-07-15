@@ -3,6 +3,7 @@ import ClickTile from "./ClickTile";
 import Container from "./Container";
 import ScoreBar from "./ScoreBar";
 import characters from "../../characters.json";
+import './Game.css';
 
 class Game extends React.Component {
     state = {
@@ -61,7 +62,7 @@ class Game extends React.Component {
     }
 
     restartGame = characters => {
-        const reset = characters.map(character => ({ ...character, clicked: false}));
+        const reset = characters.map(character => ({ ...character, clicked: false }));
         return this.shuffleCharacters(reset);
     }
 

@@ -1,7 +1,7 @@
 import React from 'react';
 import './HeroImage.css';
 
-const HeroImage = props => <img src="https://placeimg.com/1000/480/any" className="heroimage" alt="header"/>
+const HeroImage = props => <h1>Space Memory Game!</h1>
 
 
 export default HeroImage;

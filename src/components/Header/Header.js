@@ -5,8 +5,7 @@ import HeroImage from './HeroImage/HeroImage';
 const Header = props => (
     <header className="header">
         <HeroImage />
-        <h1>Memory Game</h1>
-        <h3>blah blah blah</h3>
+        <h2 className="instructions">Click on each image, but only once!</h2>
     </header>
 );
 
