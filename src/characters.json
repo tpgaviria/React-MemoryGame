@@ -1,77 +1,77 @@
 [
     {
         "id":1,
-        "image": "/public/images/001-abduction.png",
+        "image": "/images/001-abduction.png",
         "clicked": false
     },
     {
         "id":2,
-        "image": "/public/images/002-blaster.png",
+        "image": "/images/002-blaster.png",
         "clicked": false
     },
     {
         "id":3,
-        "image": "/public/images/003-alien.png",
+        "image": "/images/003-alien.png",
         "clicked": false
     },
     {
         "id":4,
-        "image": "/public/images/004-galaxy.png",
+        "image": "/images/004-galaxy.png",
         "clicked": false
     },
     {
         "id":5,
-        "image": "/public/images/005-astronaut.png",
+        "image": "/images/005-astronaut.png",
         "clicked": false
     },
     {
         "id":6,
-        "image": "/public/images/006-astronaut-1.png",
+        "image": "/images/006-astronaut-1.png",
         "clicked": false
     },
     {
         "id":7,
-        "image": "/public/images/007-meteorite.png",
+        "image": "/images/007-meteorite.png",
         "clicked": false
     },
     {
         "id":8,
-        "image": "/public/images/008-moon-rover.png",
+        "image": "/images/008-moon-rover.png",
         "clicked": false
     },
     {
         "id":9,
-        "image": "/public/images/009-planet-earth.png",
+        "image": "/images/009-planet-earth.png",
         "clicked": false
     },
     {
         "id":10,
-        "image": "/public/images/010-constellation.png",
+        "image": "/images/010-constellation.png",
         "clicked": false
     },
     {
         "id":11,
-        "image": "/public/images/011-satellite-dish.png",
+        "image": "/images/011-satellite-dish.png",
         "clicked": false
     },
     {
         "id":12,
-        "image": "/public/images/012-rocket-launch.png",
+        "image": "/images/012-rocket-launch.png",
         "clicked": false
     },
     {
         "id":13,
-        "image": "/public/images/013-ufo.png",
+        "image": "/images/013-ufo.png",
         "clicked": false
     },
     {
         "id":14,
-        "image": "/public/images/014-rocket-launch-1.png",
+        "image": "/images/014-rocket-launch-1.png",
         "clicked": false
     },
     {
         "id":15,
-        "image": "/public/images/015-shooting-star.png",
+        "image": "/images/015-shooting-star.png",
         "clicked": false
     }
 ]
