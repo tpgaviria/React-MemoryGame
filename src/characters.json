@@ -1,12 +1,12 @@
 [
     {
         "id":1,
-        "image": "/images/001-abduction.png",
+        "image": "/public/images/001-abduction.png",
         "clicked": false
     },
     {
         "id":2,
-        "image": "/images/002-blaster.png",
+        "image": "/public/images/002-blaster.png",
         "clicked": false
     },
     {
