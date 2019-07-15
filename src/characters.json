@@ -11,67 +11,67 @@
     },
     {
         "id":3,
-        "image": "/images/003-alien.png",
+        "image": "/public/images/003-alien.png",
         "clicked": false
     },
     {
         "id":4,
-        "image": "/images/004-galaxy.png",
+        "image": "/public/images/004-galaxy.png",
         "clicked": false
     },
     {
         "id":5,
-        "image": "/images/005-astronaut.png",
+        "image": "/public/images/005-astronaut.png",
         "clicked": false
     },
     {
         "id":6,
-        "image": "/images/006-astronaut-1.png",
+        "image": "/public/images/006-astronaut-1.png",
         "clicked": false
     },
     {
         "id":7,
-        "image": "/images/007-meteorite.png",
+        "image": "/public/images/007-meteorite.png",
         "clicked": false
     },
     {
         "id":8,
-        "image": "/images/008-moon-rover.png",
+        "image": "/public/images/008-moon-rover.png",
         "clicked": false
     },
     {
         "id":9,
-        "image": "/images/009-planet-earth.png",
+        "image": "/public/images/009-planet-earth.png",
         "clicked": false
     },
     {
         "id":10,
-        "image": "/images/010-constellation.png",
+        "image": "/public/images/010-constellation.png",
         "clicked": false
     },
     {
         "id":11,
-        "image": "/images/011-satellite-dish.png",
+        "image": "/public/images/011-satellite-dish.png",
         "clicked": false
     },
     {
         "id":12,
-        "image": "/images/012-rocket-launch.png",
+        "image": "/public/images/012-rocket-launch.png",
         "clicked": false
     },
     {
         "id":13,
-        "image": "/images/013-ufo.png",
+        "image": "/public/images/013-ufo.png",
         "clicked": false
     },
     {
         "id":14,
-        "image": "/images/014-rocket-launch-1.png",
+        "image": "/public/images/014-rocket-launch-1.png",
         "clicked": false
     },
     {
         "id":15,
-        "image": "/images/015-shooting-star.png",
+        "image": "/public/images/015-shooting-star.png",
         "clicked": false
     }
 ]
